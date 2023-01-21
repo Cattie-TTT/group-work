@@ -1,0 +1,30 @@
+form{text-align: center;
+font-size: 18px;
+border: 2px dotted #ffce5c;
+background-color: #f5eca9;}
+*{text-align: center;}
+h1{border: 3px solid #e63535;
+margin-right: 550px;
+margin-left: 550px;
+border-radius: 20px;}
+
+p{margin-left: 13px;
+margin-right: 13px;}
+button{margin-left: 10px;}
+button:hover{background-color: orange;
+	color: white;}
+button{font-size: 30px;
+	background-color: pink;
+	border: 2px outset hotpink;}
+#vin{font-size: 20px;}
+#yan{font-size: 20px;
+border: 5px outset orange;
+margin-left: 600px;
+margin-right: 600px;}
+p{font-size: 18px;}
+table{font-size: 18px;
+	border: 3px solid black;
+	margin-left: 600px;
+	margin-right: 600px;
+	padding: 20px;
+	margin-top: 20px;}

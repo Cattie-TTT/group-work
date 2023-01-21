@@ -1,0 +1,76 @@
+body{
+    color: #555555;
+    line-height: 2em;
+    background-color: rgb(225, 232, 250);
+}
+
+ button{margin-left: 10px;}
+ button:hover{background-color: orange;
+   color: white;}
+ button{font-size: 30px;
+   background-color: pink;
+   border: 2px outset hotpink;
+}
+
+   #happy{
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: rgb(194, 48, 48);
+    letter-spacing: 1em;
+}
+.word{
+    font-family: initial;
+    font-size: 20px;
+    border: 2px darkblue solid;
+    border-color: rgb(31, 40, 105);
+    margin-bottom: 50px;
+}
+
+.ti{
+    text-align: center;
+    border: 2px darkblue solid;
+    float: left;
+    width: 32%;
+    box-sizing: border-box;
+}
+
+#text1{
+    width: 300px;
+    padding: 10px;
+    
+}
+
+#text2{
+     width: 300px;
+    padding: 10px;
+    float: center;
+}
+
+.block{
+    float: left;
+    width: 32%;
+    }
+
+#text5{
+    float: left;
+    margin-top: 20px;
+    border: 2px darkblue solid;
+    font-size: 5px 50px 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

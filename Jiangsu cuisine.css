@@ -1,0 +1,30 @@
+h1{color: red;}
+body{background-size: 100% ;
+  background-image: url(https://img2.baidu.com/it/u=3793556717,1943376016&fm=26&fmt=auto&gp=0.jpg)
+}
+p{color: black;
+font-size: 28px;}
+.abc{height: 200px
+}
+.mydiv{
+  float:left;
+  width:24.8%;}
+.mydiv{border:1px outset violet;
+  margin-top: 10px;
+}
+  .video{text-decoration: none;
+  	border: 1px outset violet;
+}
+a:hover{background-color: lightblue;
+color: violet;
+}
+a{text-decoration: none;}
+a{font-size: 30px;
+margin-bottom: 10px;}
+#a1{position: fixed;
+top: 40px;
+border: 1px outset violet;}
+#a2{padding-left: 40px;
+padding-right: 40px;
+border: 2px outset violet;
+}

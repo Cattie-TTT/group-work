@@ -1,0 +1,28 @@
+#body{background-color: #f7edbe;}
+button{margin-left: 10px;}
+button:hover{background-color: orange;
+	color: white;}
+button{font-size: 20px;
+	background-color: white;
+	border: 2px outset lightyellow;}
+.mydiv{float: left;
+	width: 33%;
+	font-size: 20px;}
+#vin{height: 50px;
+	width: 300px;
+	background-color: orange;
+	margin-left: 50px;
+	margin-right: 500px;
+border-radius: 30px ;
+box-shadow: 8px 5px 5px gray;
+transition: width 2s;}
+#vin:hover{width: 400px}
+	#h1{font-size: 45px;
+		margin-left: 100px;
+	text-shadow: 2px 3px 4px;}
+.nan{border: 3px inset orange;
+	margin-left: 10px;
+	margin-right: 100px;}
+.yan{font-size: 25px;
+	text-decoration: underline;
+	color: darkred;}
